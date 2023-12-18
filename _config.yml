@@ -276,6 +276,7 @@ defaults:
 
 # Exclude these files from production site
 exclude:
+  - _posts/
   - CHANGELOG.md
   - CNAME
   - Gemfile
