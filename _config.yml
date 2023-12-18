@@ -20,13 +20,8 @@ author: Tristan Carruzzo, Victor Dubien, Agatha Hunter, Anne-Valerie Preto,
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Home Page: "Homepage"
   Dataset: "dataset"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
