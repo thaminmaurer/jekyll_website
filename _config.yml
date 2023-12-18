@@ -21,7 +21,7 @@ author: Tristan Carruzzo, Victor Dubien, Agatha Hunter, Anne-Valerie Preto,
 
 navbar-links:
   About Me: "aboutme"
-  Home Page: "homepage"
+  Home Page: "Homepage"
   Dataset: "dataset"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
